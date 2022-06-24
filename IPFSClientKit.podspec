@@ -10,6 +10,6 @@ Pod::Spec.new do |spec|
   spec.platform = :ios
   spec.ios.deployment_target = "12.0"
   spec.source       = { :git => "https://github.com/hydraCy/IPFSClientKit.git", :tag => "#{spec.version}" }
-  spec.source_files  = "Code/.swift"
+  spec.source_files  = "Code/*.swift"
   spec.requires_arc = true
 end
