@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "IPFSClientKit"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "IPFSClientKit"
   spec.description  = "Based on: https://github.com/ipfs-shipyard/swift-ipfs-http-client"
   spec.homepage     = "https://github.com/hydraCy/IPFSClientKit"
